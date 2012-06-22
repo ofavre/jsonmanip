@@ -1,0 +1,13 @@
+/Debug/jsonmanip
+/Debug/src/*.o
+/Debug/src/*.d
+/Debug/dep/json_cpp/*.o
+/Debug/dep/json_cpp/*.d
+/Release/jsonmanip
+/Release/src/*.o
+/Release/src/*.d
+/Release/dep/json_cpp/*.o
+/Release/dep/json_cpp/*.d
+.*.swp
+/.cproject
+/.project
